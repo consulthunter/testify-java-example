@@ -12,3 +12,11 @@ The repo is used to demonstration and testing of Testify.
 The project uses the following frameworks:
 - JUnit
 - TestNG
+
+## Statistics
+
+Test Methods: 8
+Test Classes: 3
+
+Other Classes: 3
+Other Methods: 22
